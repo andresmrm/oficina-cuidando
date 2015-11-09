@@ -133,9 +133,11 @@ Essa ferramenta busca:
 
 Link para o site: [cuidando.vc](https://cuidando.vc)
 
-[Código fonte do site.](https://github.com/okfn-brasil/cuidando2)
+Mas ela ainda está em fase de testes...
 
-Exemplo dos dados públicos que usamos para fazer o site: [execução 2015](http://orcamento.prefeitura.sp.gov.br/orcamento/uploads/2015/basedadosexecucao2015.ods).
+O código fonte do site pode ser encontrado aqui: [repositório](https://github.com/okfn-brasil/cuidando2)
+
+Exemplo dos dados públicos que usamos para fazer o site: [execução 2015](http://orcamento.prefeitura.sp.gov.br/orcamento/uploads/2015/basedadosexecucao2015.ods)
 
 ## Outras Ferramentas
 
