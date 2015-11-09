@@ -6,6 +6,7 @@ title: Oficina - Cuidando do Meu Bairro
 ## São Paulo Aberta
 
 [![](imgs/spaberta.jpg "São Paulo Aberta")](http://saopauloaberta.prefeitura.sp.gov.br)
+
 [![](imgs/agente.png "Agente Governo Aberto")](http://saopauloaberta.prefeitura.sp.gov.br/index.php/tag/agente-de-governo-aberto)
 
 [Formulário para inscrição nas oficinas](https://docs.google.com/forms/d/1ls3HTTN-2VA24noPghfH2wBAtIAsdB-IGahoFkIj13s/viewform)
@@ -24,6 +25,7 @@ title: Oficina - Cuidando do Meu Bairro
 Informações reproduzidas do site [Orçamento Cidadão](http://planejasampa.prefeitura.sp.gov.br/orcamento-cidadao).
 
 [Dados orçamentários](http://orcamento.prefeitura.sp.gov.br)
+
 
 
 ## Pedidos de Informação
@@ -77,11 +79,19 @@ Informações reproduzidas dessa [cartilha](http://cafehacker.prefeitura.sp.gov.
 > 2. A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo;
 > 3. A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamentos, de modo que toda a comunidade se beneficie deles. O acesso ao código-fonte é um pré-requisito para esta liberdade.
 
+[exemplo](exemplo.html)
+[modificar](http://plnkr.co/edit/kENtfEQYmyBKBzr0sQt3?p=preview)
 
 - [Licenças Livres](https://pt.wikipedia.org/wiki/Licen%C3%A7a_livre)
     - Wikipedia
 
-exemplos...
+E até... cervejas livres:
+
+[![](imgs/freebeer.jpg)](http://freebeer.org)
+
+Mas não necessariamente de graça:
+
+[![](imgs/asinfreedom.jpg)](http://freebeer.org)
 
 
 
@@ -105,9 +115,13 @@ exemplos...
 - [Pedido Respondido](http://pedidorespondido.info): Site para buscar pedidos de informação respondidos.
 
 
-## Fim
+## Encerramento
 
 [Formulário para avaliação da oficina](https://docs.google.com/forms/d/1nWXqAWhNJrhfxZuziJSBB6cLMKOJNBnuIS7Y-EReCnk/viewform)
 
-Materia sob licença CC-BY-SA:
+[Formulário nosso](http://devcolab.each.usp.br/limesurvey/index.php/survey/index/sid/639389/newtest/Y/lang/pt-BR)
+
+Material sob licença CC-BY-SA:
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR)
+
+[Código fonte](https://github.com/andresmrm/oficina-cuidando).
