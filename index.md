@@ -79,11 +79,21 @@ Informações reproduzidas dessa [cartilha](http://cafehacker.prefeitura.sp.gov.
 > 2. A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo;
 > 3. A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamentos, de modo que toda a comunidade se beneficie deles. O acesso ao código-fonte é um pré-requisito para esta liberdade.
 
-[exemplo](exemplo.html)
-[modificar](http://plnkr.co/edit/kENtfEQYmyBKBzr0sQt3?p=preview)
+Mas o que é software? [Exemplo.](exemplo.html)
+E quando ele é livre, você pode [modificá-lo](http://plnkr.co/edit/kENtfEQYmyBKBzr0sQt3?p=preview).
+
+[Hardware Livre](https://pt.wikipedia.org/wiki/Hardware_livre):
+
+[![](imgs/beagle.jpg)](https://pt.wikipedia.org/wiki/Beagleboard)
 
 - [Licenças Livres](https://pt.wikipedia.org/wiki/Licen%C3%A7a_livre)
     - Wikipedia
+
+
+
+Filmes:
+
+[![](imgs/sintel.png)](https://durian.blender.org/download/)
 
 E até... cervejas livres:
 
@@ -93,6 +103,10 @@ Mas não necessariamente de graça:
 
 [![](imgs/asinfreedom.jpg)](http://freebeer.org)
 
+Documentários sobre o assunto:
+
+- [Good Copy, Bad Copy](https://www.youtube.com/watch?v=rJCBY_JerRk): Sobre a indústria da música (fala inclusive sobre o [Tecnobrega](https://pt.wikipedia.org/wiki/Tecnobrega), do Norte do país).
+- [Patent Absurdity](https://vimeo.com/44111416): Sobre patentes de software.
 
 
 ## Cuidando do Meu Bairro
