@@ -1,0 +1,14 @@
+<script>
+  function cumprimentar() {
+    var texto = document.getElementById("caixa-de-texto").value
+    var mensagem = "Olá, " + texto + "! Tudo bem com você? Sabia que seu nome tem " + texto.length + " letras?"
+    //alert(mensagem)
+    document.getElementById("mensagem").innerHTML = mensagem
+  }
+</script>
+
+Coloque aqui seu nome:
+<input id="caixa-de-texto">
+<button onclick="cumprimentar()">Diga oi para mim!</button>
+
+<p id="mensagem">Quem está aí?</p>

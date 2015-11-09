@@ -6,15 +6,10 @@ title: Oficina - Cuidando do Meu Bairro
 ## São Paulo Aberta
 
 [![](imgs/spaberta.jpg "São Paulo Aberta")](http://saopauloaberta.prefeitura.sp.gov.br)
-
 [![](imgs/agente.png "Agente Governo Aberto")](http://saopauloaberta.prefeitura.sp.gov.br/index.php/tag/agente-de-governo-aberto)
 
+[Formulário para inscrição nas oficinas](https://docs.google.com/forms/d/1ls3HTTN-2VA24noPghfH2wBAtIAsdB-IGahoFkIj13s/viewform)
 
-
-## Tecnologias Abertas
-
-hcdochtjdocthj
-o hodhjcodhjcdoct hdjoctd hjcoh hjohjcdct
 
 
 ## Orçamento
@@ -71,6 +66,25 @@ Informações reproduzidas dessa [cartilha](http://cafehacker.prefeitura.sp.gov.
 [Mais informações](http://transparencia.prefeitura.sp.gov.br/acesso-a-informacao)
 
 
+## Tecnologias Abertas
+
+[Software Livre](https://pt.wikipedia.org/wiki/Software_livre)
+
+> [V]isa garantir quatro liberdades básicas ao usuário de programas de computador:
+>
+> 0. A liberdade de executar o programa, para qualquer propósito;
+> 1. A liberdade de estudar como o programa funciona e adaptá-lo para as suas necessidades. O acesso ao código-fonte é um pré-requisito para esta liberdade;
+> 2. A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo;
+> 3. A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamentos, de modo que toda a comunidade se beneficie deles. O acesso ao código-fonte é um pré-requisito para esta liberdade.
+
+
+- [Licenças Livres](https://pt.wikipedia.org/wiki/Licen%C3%A7a_livre)
+    - Wikipedia
+
+exemplos...
+
+
+
 ## Cuidando do Meu Bairro
 
 - Colocar execução orçamentária no mapa.
@@ -91,4 +105,9 @@ Informações reproduzidas dessa [cartilha](http://cafehacker.prefeitura.sp.gov.
 - [Pedido Respondido](http://pedidorespondido.info): Site para buscar pedidos de informação respondidos.
 
 
+## Fim
+
+[Formulário para avaliação da oficina](https://docs.google.com/forms/d/1nWXqAWhNJrhfxZuziJSBB6cLMKOJNBnuIS7Y-EReCnk/viewform)
+
+Materia sob licença CC-BY-SA:
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR)
