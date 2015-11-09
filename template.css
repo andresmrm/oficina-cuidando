@@ -51,6 +51,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto; }
+  img:focus, img:hover {
+    filter: drop-shadow(3px 3px 3px #7B7B7B); }
 
 h1, h2 {
   text-align: center; }
@@ -59,7 +61,8 @@ h1, h2 {
   text-align: center;
   margin: 100px 0px; }
   #TOC ul {
-    list-style-type: none; }
+    list-style-type: none;
+    padding-left: 0px; }
     #TOC ul::before {
       content: "Índice";
       display: block;

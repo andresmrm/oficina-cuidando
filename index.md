@@ -1,5 +1,5 @@
 ---
-title: Oficina - Cuidando do Meu Bairro
+title: Oficina<br>Cuidando do Meu Bairro
 ---
 
 
@@ -7,9 +7,22 @@ title: Oficina - Cuidando do Meu Bairro
 
 [![](imgs/spaberta.jpg "São Paulo Aberta")](http://saopauloaberta.prefeitura.sp.gov.br)
 
+> São Paulo Aberta é uma iniciativa do governo municipal que visa articular, integrar e fomentar ações de governo aberto na Prefeitura Municipal de São Paulo.
+
+> Governo Aberto é um conjunto de iniciativas articuladas de transparência, participação, inovação e integridade nas políticas públicas.  A cidade de São Paulo implementa esta agenda ao desenvolver estratégias para:
+>
+> - Ampliar os processos de participação na tomada de decisões;
+> - Garantir a transparência, por meio do acesso às informações públicas;
+> - Desenvolver processos que estimulem a integridade e reponsabilização do poder público e seus agentes;
+> - Fomentar a criação e uso de ferramentas de inovação tecnológica e social.
+
+Fonte: [São Paulo Aberta](http://saopauloaberta.prefeitura.sp.gov.br/index.php/institucional)
+
+
 [![](imgs/agente.png "Agente Governo Aberto")](http://saopauloaberta.prefeitura.sp.gov.br/index.php/tag/agente-de-governo-aberto)
 
-[Formulário para inscrição nas oficinas](https://docs.google.com/forms/d/1ls3HTTN-2VA24noPghfH2wBAtIAsdB-IGahoFkIj13s/viewform)
+Através de um edital a prefeitura selecionou 48 pessoas para serem "agentes formadores na cultura de governo aberto", ou seja, pessoas para desenvolverem oficinas relacionadas a governo aberto.
+[Formulário para inscrição nas oficinas](https://docs.google.com/forms/d/1ls3HTTN-2VA24noPghfH2wBAtIAsdB-IGahoFkIj13s/viewform).
 
 
 
@@ -24,7 +37,7 @@ title: Oficina - Cuidando do Meu Bairro
 
 Informações reproduzidas do site [Orçamento Cidadão](http://planejasampa.prefeitura.sp.gov.br/orcamento-cidadao).
 
-[Dados orçamentários](http://orcamento.prefeitura.sp.gov.br)
+[Dados orçamentários](http://orcamento.prefeitura.sp.gov.br).
 
 
 
@@ -65,14 +78,17 @@ O prazo para análise do recurso e parecer é de 5 dias.
 
 Informações reproduzidas dessa [cartilha](http://cafehacker.prefeitura.sp.gov.br/wp-content/uploads/2014/09/cartilha_acessoainfosp.pdf).
 
-[Mais informações](http://transparencia.prefeitura.sp.gov.br/acesso-a-informacao)
+Mais informações, no [Portal de Transparência](http://transparencia.prefeitura.sp.gov.br/acesso-a-informacao).
 
 
-## Tecnologias Abertas
+## Tecnologias Livres
 
-[Software Livre](https://pt.wikipedia.org/wiki/Software_livre)
+Termo bastante amplo relacionado à uma transformação cultural que busca democratizar o acesso às tecnologias em diversos aspectos.
+Para entender melhor esse conceito, talvez seja útil ver como ele se manifesta na prática.
 
-> [V]isa garantir quatro liberdades básicas ao usuário de programas de computador:
+Peguemos o movimento de [Software Livre](https://pt.wikipedia.org/wiki/Software_livre), que talvez tenha sido o primeiro a debater questão. Este movimento é criador da licença [GPL](https://pt.wikipedia.org/wiki/GNU_General_Public_License) que busca:
+
+> garantir quatro liberdades básicas ao usuário de programas de computador:
 >
 > 0. A liberdade de executar o programa, para qualquer propósito;
 > 1. A liberdade de estudar como o programa funciona e adaptá-lo para as suas necessidades. O acesso ao código-fonte é um pré-requisito para esta liberdade;
@@ -82,16 +98,14 @@ Informações reproduzidas dessa [cartilha](http://cafehacker.prefeitura.sp.gov.
 Mas o que é software? [Exemplo.](exemplo.html)
 E quando ele é livre, você pode [modificá-lo](http://plnkr.co/edit/kENtfEQYmyBKBzr0sQt3?p=preview).
 
-[Hardware Livre](https://pt.wikipedia.org/wiki/Hardware_livre):
+Além do Software Livre, temos o [Hardware Livre](https://pt.wikipedia.org/wiki/Hardware_livre).
 
 [![](imgs/beagle.jpg)](https://pt.wikipedia.org/wiki/Beagleboard)
 
-- [Licenças Livres](https://pt.wikipedia.org/wiki/Licen%C3%A7a_livre)
-    - Wikipedia
+Um ponto central é a questão das [Licenças Livres](https://pt.wikipedia.org/wiki/Licen%C3%A7a_livre).
+E assim podemos ter coisas como uma enciclopédia livre: [Wikipedia](https://pt.wikipedia.org).
 
-
-
-Filmes:
+Filmes livres:
 
 [![](imgs/sintel.png)](https://durian.blender.org/download/)
 
@@ -105,21 +119,25 @@ Mas não necessariamente de graça:
 
 Documentários sobre o assunto:
 
-- [Good Copy, Bad Copy](https://www.youtube.com/watch?v=rJCBY_JerRk): Sobre a indústria da música (fala inclusive sobre o [Tecnobrega](https://pt.wikipedia.org/wiki/Tecnobrega), do Norte do país).
+- [Good Copy, Bad Copy](https://www.youtube.com/watch?v=rJCBY_JerRk): Sobre a indústria da música (esse documentário fala inclusive sobre o [Tecnobrega](https://pt.wikipedia.org/wiki/Tecnobrega), do Norte do Brasil).
 - [Patent Absurdity](https://vimeo.com/44111416): Sobre patentes de software.
 
 
 ## Cuidando do Meu Bairro
 
-- Colocar execução orçamentária no mapa.
+Essa ferramenta busca:
+
+- Colocar a execução orçamentária no mapa.
 - Permitir comentários sobre as despesas.
 - Permitir pedidos de informação sobre as despesas.
 
-[site](https://cuidando.vc)
+[Link para o site.](https://cuidando.vc)
 
-[Execução 2015](http://orcamento.prefeitura.sp.gov.br/orcamento/uploads/2015/basedadosexecucao2015.ods)
+Uma parte dos dados públicos que usamos para fazer o site: [execução 2015](http://orcamento.prefeitura.sp.gov.br/orcamento/uploads/2015/basedadosexecucao2015.ods).
 
 ## Outras Ferramentas
+
+Outras ferramentas que também buscam auxiliar a transparência governamental no município de São Paulo:
 
 - [Portal de Transparência](http://transparencia.prefeitura.sp.gov.br): Site de transparência da prefeitura de São Paulo.
 - [Gastos Abertos](http://gastosabertos.org): Projeto de análise do orçamento (atualmente visualização da receita da cidade de São Paulo).
@@ -131,11 +149,11 @@ Documentários sobre o assunto:
 
 ## Encerramento
 
-[Formulário para avaliação da oficina](https://docs.google.com/forms/d/1nWXqAWhNJrhfxZuziJSBB6cLMKOJNBnuIS7Y-EReCnk/viewform)
+[Formulário para avaliação da oficina](https://docs.google.com/forms/d/1nWXqAWhNJrhfxZuziJSBB6cLMKOJNBnuIS7Y-EReCnk/viewform).
 
-[Formulário nosso](http://devcolab.each.usp.br/limesurvey/index.php/survey/index/sid/639389/newtest/Y/lang/pt-BR)
+[Formulário para avaliação do aplicativo](http://devcolab.each.usp.br/limesurvey/index.php/survey/index/sid/639389/newtest/Y/lang/pt-BR).
 
-Material sob licença CC-BY-SA:
+Esse material, é claro, está sob uma licença livre:
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR)
 
-[Código fonte](https://github.com/andresmrm/oficina-cuidando).
+[E o código fonte que gerou esse site pode ser encontrado aqui.](https://github.com/andresmrm/oficina-cuidando)
