@@ -131,9 +131,11 @@ Essa ferramenta busca:
 - Permitir comentários sobre as despesas.
 - Permitir pedidos de informação sobre as despesas.
 
-[Link para o site.](https://cuidando.vc)
+Link para o site: [cuidando.vc](https://cuidando.vc)
 
-Uma parte dos dados públicos que usamos para fazer o site: [execução 2015](http://orcamento.prefeitura.sp.gov.br/orcamento/uploads/2015/basedadosexecucao2015.ods).
+[Código fonte do site.](https://github.com/okfn-brasil/cuidando2)
+
+Exemplo dos dados públicos que usamos para fazer o site: [execução 2015](http://orcamento.prefeitura.sp.gov.br/orcamento/uploads/2015/basedadosexecucao2015.ods).
 
 ## Outras Ferramentas
 
