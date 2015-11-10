@@ -45,7 +45,7 @@ Informações reproduzidas do site [Orçamento Cidadão](http://planejasampa.pre
 
 ## Pedidos de Informação
 
-> Lei de Acesso à Informação ([Lei Federal nº12.527/2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)), conhecida como "LAI", [...] estabelece uma séria de obrigações ao poder público: prazos, responsáveis, canais de atendimento online e físicos.
+> Lei de Acesso à Informação ([Lei Federal nº12.527/2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)), conhecida como "LAI", [...] estabelece uma série de obrigações ao poder público: prazos, responsáveis, canais de atendimento online e físicos.
 
 Pedidos online, no município de São Paulo, devem ser feitos pelo [e-SIC (Sistema Eletrônico do Serviço de Informações ao Cidadão)](http://esic.prefeitura.sp.gov.br).
 
