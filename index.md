@@ -33,7 +33,7 @@ Através de um edital a prefeitura selecionou 48 pessoas para serem "agentes for
 
 > O orçamento da cidade nada mais é do que a previsão de tudo o que o município irá receber de recursos no ano seguinte e de onde será gasto esse dinheiro.
 
-> [T]odos os anos a Prefeitura faz um Projeto de Lei Orçamentária (Ploa) que é analisado, modificado e aprovado pelos vereadores, na Câmara Municipal, tornando-se assim a Lei Orçamentária Anual (LOA), o orçamento de cada ano.
+> Todos os anos a Prefeitura faz um Projeto de Lei Orçamentária (Ploa) que é analisado, modificado e aprovado pelos vereadores, na Câmara Municipal, tornando-se assim a Lei Orçamentária Anual (LOA), o orçamento de cada ano.
 
 > Para o ano de 2015 a Prefeitura de São Paulo está planejando arrecadar e gastar quase R$ 51 bilhões. 
 
