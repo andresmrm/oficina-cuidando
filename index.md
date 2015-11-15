@@ -39,7 +39,9 @@ Através de um edital a prefeitura selecionou 48 pessoas para serem "agentes for
 
 Informações reproduzidas do site [Orçamento Cidadão](http://planejasampa.prefeitura.sp.gov.br/orcamento-cidadao).
 
-[Dados orçamentários](http://orcamento.prefeitura.sp.gov.br).
+[Dados orçamentários](http://orcamento.prefeitura.sp.gov.br) da prefeitura de São Paulo.
+
+Cartilha ["O orçamento público a seu alcance"](http://www.inesc.org.br/biblioteca/publicacoes/textos/cartilhas-e-manuais-1/o-orcamento-publico-ao-seu-alcance).
 
 
 
