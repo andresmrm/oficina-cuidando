@@ -9,6 +9,8 @@ header-includes:
 
 [![](imgs/spaberta.jpg "São Paulo Aberta")](http://saopauloaberta.prefeitura.sp.gov.br)
 
+[Vídeo de apresentação](https://www.youtube.com/watch?v=NGpYLR0ekqs)
+
 > São Paulo Aberta é uma iniciativa do governo municipal que visa articular, integrar e fomentar ações de governo aberto na Prefeitura Municipal de São Paulo.
 
 > Governo Aberto é um conjunto de iniciativas articuladas de transparência, participação, inovação e integridade nas políticas públicas.  A cidade de São Paulo implementa esta agenda ao desenvolver estratégias para:
